@@ -8,7 +8,7 @@ apt-get install -y libcurl4-openssl-dev libxml2-dev
 # A list of files in datasets/ separated by space, needs to be manually updated
 FILES="global_temperature.csv project_image.png run_code_cell_image.png"
 # The URL where the assets of the project lives
-ASSETURL=https://s3.amazonaws.com/assets.datacamp.com/production/project_33/datasets # <- NOT CORRECT CHANGE THIS!
+ASSETURL=https://s3.amazonaws.com/assets.datacamp.com/production/project_41/datasets # <- NOT CORRECT CHANGE THIS!
 # Where the datasets will be compied on the Project image.
 DATADIR=/home/repl/datasets
 
