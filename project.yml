@@ -2,7 +2,7 @@ title          : "Introduction to DataCamp Projects (R)"
 description    : >
   If you've never done a DataCamp project, this is the place to start! 
 language       : r
-from           : 'r-notebooks-prod:35'
+from           : 'r-notebooks-prod:36'
 runtime_config : default
 state          : development
 long_description: |
